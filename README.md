@@ -1,4 +1,6 @@
-﻿# Scapix Language Bridge
+origin: https://github.com/scapix-com/scapix
+
+ # Scapix Language Bridge
 
 🇺🇦 If you like this project, please consider donating to one of the funds helping victims of russian aggression against Ukraine: [ukraine.ua](https://war.ukraine.ua/donate/)
 
